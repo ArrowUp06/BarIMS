@@ -37,7 +37,7 @@
                 <!-- Mobile Number -->
                     <div class="row">
                         <div class="col mb-3">
-                            <input type="text" class="form-control" name="mobile" placeholder="Mobile Number" required>
+                            <input type="text" class="form-control" name="mobile" placeholder="Mobile Number" maxlength="11" required>
                         </div>
                     </div>
 

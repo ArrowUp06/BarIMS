@@ -74,7 +74,7 @@ if(isset($_POST['login'])){
             }
             ?>
 
-            <div class="input-group">
+            <div class="input-group mt-3">
                 <i class="fa fa-user fa-2x fs-3 me-2" aria-hidden="true"></i> 
                 <input type="text" name="email" placeholder="Email">
                 
