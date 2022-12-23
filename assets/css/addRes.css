@@ -1,0 +1,166 @@
+.label_info{
+    text-align: center;
+    background-color: #415179;
+    color: #fff;
+    padding: 5px;
+}
+
+.fname_{
+    position:absolute;
+    top: 136px; 
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px
+}
+
+.mname_{
+    position:absolute;
+    top: 136px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px
+}
+
+.lname_{
+    position:absolute;
+    top: 136px;
+    margin-left: 6px;
+    background: #fff;
+    font-size: 12px;
+}
+
+.ext_{
+    position:absolute;
+    top: 136px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.bday_{
+    position:absolute;
+    top: 183px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px
+}
+
+.age_{
+    position:absolute;
+    top: 183px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px
+}
+
+.bplace_{
+    position:absolute;
+    top: 183px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.gender_{
+    position:absolute;
+    top: 229px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.civil_{
+    position:absolute;
+    top: 229px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px
+}
+
+.nationality_{
+    position:absolute;
+    top: 229px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px
+}
+
+.religion_{
+    position:absolute;
+    top: 229px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.educ_{
+    position:absolute;
+    top: 229px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;  
+}
+
+.empst_{
+    position:absolute;
+    top: 277px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.pjob_{
+    position:absolute;
+    top: 277px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.houseno_{
+    position:absolute;
+    top: 494px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px
+}
+
+.stp_{
+    position:absolute;
+    top: 374px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.brgy_{
+    position:absolute;
+    top: 421px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.city_{
+    position:absolute;
+    top: 421px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.mnumber_{
+    position:absolute;
+    top: 519px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
+
+.email_{
+    position:absolute;
+    top: 519px;
+    margin-left: 6px;
+    background:#fff;
+    font-size:12px;
+}
